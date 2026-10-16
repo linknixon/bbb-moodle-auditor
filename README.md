@@ -1,7 +1,3 @@
-Here is the plain-text version of your README, formatted for a `.txt` file without Markdown syntax.
-
-Writing
-
 # BIGBLUEBUTTON & MOODLE USAGE AUDITOR
 
 Maintained by: Nova Cloud Edges Website: https://www.ncloud.co.ug Repository: https://github.com/linknixon/bbb-moodle-auditor License: MIT Platform: Moodle LMS | BigBlueButton
